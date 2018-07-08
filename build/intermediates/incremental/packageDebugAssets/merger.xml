@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\APK\update\update_system_1\consent-library\src\main\assets"><file name="consentform.html" path="D:\APK\update\update_system_1\consent-library\src\main\assets\consentform.html"/></source><source path="D:\APK\update\update_system_1\consent-library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\APK\update\update_system_1\consent-library\src\debug\assets"/></dataSet></merger>
